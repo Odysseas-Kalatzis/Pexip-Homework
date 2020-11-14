@@ -2,7 +2,12 @@ import time
 import random
 import string
 from word_search import WordSearch
+#from word_search_2 import WordSearch
 
+# IMPORTANT:
+# To run word_search_2, uncomment its import and comment word_search.
+
+# Setting the seed:
 random.seed(0)
 
 # Generates a grid of random lowercase characters.
