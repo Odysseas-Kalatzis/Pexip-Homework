@@ -5,7 +5,7 @@ Only ```word_search.py``` and/or ```word_search_2.py``` are required.
 
 * ```word_search.py``` has an **O(n)** time complexity
 
-* ```word_search_2.py``` has an **O(log(n))** time complexity but requires 24 times more memory than ```word_search.py```.
+* ```word_search_2.py``` has an **O(log(n))** time complexity but requires 24 times more memory.
 
 To run ```word_search_2.py``` on a 10000 by 10000 grid, it requires approximately **15GB** of memory. To avoid using virtual memory, a minimum of 32GB RAM is recommended.
 
